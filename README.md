@@ -20,4 +20,4 @@ A simple Winform project. English - Vietnamese dictionary window application
 </li>
 </ul>
 <h2>How to run the code</h2>
-<p>Just download and open the <font color="green">EN_VN_Lib.sln</font> or <font color="green">EN_VN_Lib.csproj</font> file</P>
+<p>Just download and open the <span style="color: purple;">EN_VN_Lib.sln</span> or <span style="color: purple;">EN_VN_Lib.sln</span> file</p>
