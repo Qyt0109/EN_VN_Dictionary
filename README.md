@@ -10,12 +10,14 @@ A simple Winform project. English - Vietnamese dictionary window application
 <p>App language setting and login form</p>
 <img src="https://github.com/Qyt0109/EN_VN_Dictionary/blob/main/Pic/1.png">
 </li>
+<li>
 <p>Logged in successfully!</p>
 <img src="https://github.com/Qyt0109/EN_VN_Dictionary/blob/main/Pic/2.png">
-<li>
 </li>
+<li>
 <p>Manage system with admin role account</p>
 <img src="https://github.com/Qyt0109/EN_VN_Dictionary/blob/main/Pic/3.png">
-<li>
 </li>
 </ul>
+<h2>How to run the code</h2>
+<p>Just download and open the <a>EN_VN_Lib.sln</a> or <a>EN_VN_Lib.csproj</a> file</P>
