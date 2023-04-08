@@ -1,4 +1,4 @@
-# English-Vietnamese-Dictionary
+# English Vietnamese Dictionary
 A simple Winform project. English - Vietnamese dictionary window application
 <h2>Some screenshot of the dictionary app:</h2>
 <ul>
