@@ -6,9 +6,9 @@ A simple Winform project. English - Vietnamese dictionary window application
 <p>Main form - the dictionary</p>
 <img src="https://github.com/Qyt0109/EN_VN_Dictionary/blob/main/Pic/0.png">
 </li>
+<li>
 <p>App language setting and login form</p>
 <img src="https://github.com/Qyt0109/EN_VN_Dictionary/blob/main/Pic/1.png">
-<li>
 </li>
 <p>Logged in successfully!</p>
 <img src="https://github.com/Qyt0109/EN_VN_Dictionary/blob/main/Pic/2.png">
